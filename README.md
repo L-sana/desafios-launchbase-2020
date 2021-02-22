@@ -1,5 +1,5 @@
-# desafios-launchbase-2020
-LaunchBase bootcamp rocketseat 2020 Lais
+# desafios-launchbase-rocketseat
+LaunchBase bootcamp rocketseat Lais
 
 Desafios resolvidos do primeiro módulo do Bootcamp Launchbase 🚀👨🏻‍🚀
 
